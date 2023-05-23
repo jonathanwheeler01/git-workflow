@@ -5,6 +5,6 @@ for l in "alphabet":
    print(l)
 
 # read a data file
-d = pd.read_cv(...)
+d = pd.read_cv("../../data_store/data/student_data.csv")
 
 
