@@ -4,6 +4,7 @@ import pandas as pd
 for l in "alphabet":
    print(l)
 
-# add a variable
-my_dog = "MAggie"
+# read a data file
+d = pd.read_cv(...)
+
 
