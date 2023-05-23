@@ -1,0 +1,12 @@
+# ignore files by name
+summary_results.xlsx
+
+# ignore all files within a directory
+supplemental_data/
+
+# ignore all csv files
+*.csv
+
+# don't ignore a file that would otherwise be ignored
+!supplemental_data/include_me.txt
+
