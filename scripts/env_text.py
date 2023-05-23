@@ -4,3 +4,7 @@ import pandas as pd
 for l in "alphabet":
    print(l)
 
+# read a data file
+d = pd.read_cv(...)
+
+
