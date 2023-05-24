@@ -19,7 +19,8 @@ print(d.info())
 # adding something on merge_test branch
 print("Hello branch")
 
-
 # resolve merge conflict
 print("Now we're done!")
 
+# add a comment using github editor
+print("I'm online!")
