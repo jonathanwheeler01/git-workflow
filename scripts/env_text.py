@@ -9,3 +9,6 @@ d = pd.read_cv("../../data_store/data/student_data.csv")
 
 # deadline stuff here
 print("Working hard!")
+
+# from the current branch
+print(d.info())
