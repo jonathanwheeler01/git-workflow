@@ -18,3 +18,6 @@ print(d.info())
 
 # adding something on merge_test branch
 print("Hello branch")
+
+# demonstrate a merge conflict
+print("This is my print statement")
